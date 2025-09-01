@@ -1,2 +1,1 @@
-Hey! I'm Deepanshu
-- Currently I'm pursuing BCA
+Deepanshu! I'm Deepanshu
