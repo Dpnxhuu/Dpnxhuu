@@ -1,8 +1,27 @@
-This is my first repository.
+<h1>👋 Hi, I'm Deepanshu</h1>
 <br>
-Author-Deepanshu
+I’m from Meerut, Uttar Pradesh, and currently pursuing my Bachelor of Computer Applications (BCA) – 3rd Year.
+Alongside my studies, I’m learning Full Stack Development through PW Skills to strengthen my knowledge and practical skills in web development.
 <br>
-An aspirant Full Stack Developer.
+<h2>🚀 About Me</h2>
 <br>
-Hello.
+🌱 Currently upskilling with Full Stack Development
+<br>
+💻 Strong foundation in HTML, CSS, JavaScript, and C++
+<br>
+🎯 Interested in building responsive, user-friendly websites and applications
+<br>
+📚 Passionate about continuous learning and exploring modern web technologies
+<br>
+<h2>🛠️ Tech Stack</h2>
+<br>
+Frontend: HTML, CSS, JavaScript
+<br>
+Programming Languages: C++
+<br>
+Currently Exploring: Full Stack Development (Frontend + Backend)
+<br>
+<h2>📌 Goals</h2>
+<br>
+My goal is to become a skilled Full Stack Developer, contribute to real-world projects, and grow my open-source presence here on GitHub.
 
