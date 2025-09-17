@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm Deepanshu</h1>
 <br>
 I’m from Meerut, Uttar Pradesh, and currently pursuing my Bachelor of Computer Applications (BCA) – 3rd Year.
-Alongside my studies, I’m learning Full Stack Development through PW Skills to strengthen my knowledge and practical skills in web development.
+Alongside my studies, I’m learning <strong>Full Stack Development through PW Skills</strong> to strengthen my knowledge and practical skills in web development.
 <br>
 <h2>🚀 About Me</h2>
 <br>
