@@ -24,4 +24,12 @@ Currently Exploring: Full Stack Development (Frontend + Backend)
 <h2>📌 Goals</h2>
 <br>
 My goal is to become a skilled Full Stack Developer, contribute to real-world projects, and grow my open-source presence here on GitHub.
+<h2>📫 Contact Me</h2>
+
+I’d love to connect! You can reach me here:
+<ul>
+  <li>Linkedin:https://www.linkedin.com/in/idpnshuu/</li>
+  <li>X(twitter):https://x.com/idpnshuu</li>
+  <li>Email:dpnxhuu@gmail.com</li>
+</ul>
 
