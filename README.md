@@ -17,7 +17,7 @@ Alongside my studies, I’m learning <strong>Full Stack Development through PW S
 <br>
 Frontend: HTML, CSS, JavaScript
 <br>
-Programming Languages: C++
+Programming Languages: C++/java
 <br>
 Currently Exploring: Full Stack Development (Frontend + Backend)
 <br>
